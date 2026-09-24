@@ -2,6 +2,12 @@
 
 # 📊 PSX 2026 Financial Analytics | Power BI Corporate Intelligence Dashboard
 
+## 🖼️ Dashboard Preview
+
+![PSX Financial Dashboard Banner](https://github.com/Abdullahprobro/PSX-2026-Corporate-Financial-Analytics-Dashboard/blob/main/Screenshot%20(1039).png?raw=true)
+
+---
+
 ## 1. Project Headline
 **PSX 2026 Financial Analytics | Single-Page Power BI Dashboard for Blue-Chip Corporate Intelligence**
 
@@ -65,7 +71,4 @@ Financial filings on the Pakistan Stock Exchange present unique analytics challe
 ## 9. Business Impact & Insights
 * **Zero Reporting Distortion**: Eliminates double-counting errors through forced period control, ensuring 100% data integrity for investor presentations.
 * **Single-Screen Executive Efficiency**: Consolidates essential top-line metrics into a single screen for quick C-suite evaluation without menu navigation.
-
-## 10. Screenshot/demos
-
 * **Sector Concentration Discovery**: Identifies core income drivers across the index, highlighting how Commercial Banks and Energy entities generate a major share of total exchange earnings.
