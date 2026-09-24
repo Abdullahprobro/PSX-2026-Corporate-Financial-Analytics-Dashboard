@@ -1,10 +1,8 @@
-# PSX-2026-Corporate-Financial-Analytics-Dashboard
-
 # 📊 PSX 2026 Financial Analytics | Power BI Corporate Intelligence Dashboard
 
-## 🖼️ Dashboard Preview
+## 🖼️ Primary Dashboard Preview
 
-![PSX Financial Dashboard Banner](https://github.com/Abdullahprobro/PSX-2026-Corporate-Financial-Analytics-Dashboard/blob/main/Screenshot%20(1039).png?raw=true)
+![PSX Financial Dashboard Main View](https://github.com/Abdullahprobro/PSX-2026-Corporate-Financial-Analytics-Dashboard/blob/main/Screenshot%20(1039).png?raw=true)
 
 ---
 
@@ -65,6 +63,26 @@ Financial filings on the Pakistan Stock Exchange present unique analytics challe
 * **Revenue Leaderboard (Clustered Bar Chart)**: Ranks companies by overall top-line volume (`Total Revenue` by `Company_Name`).
 * **Financial Matrix Table**: Granular breakdown displaying `Average EPS`, `Total Net Profit`, `Total Revenue`, and `Net Profit Margin %` for company-by-company audits.
 * **Period & Basis Slicers**: Top control panel forcing unambiguous selections (e.g., `Annual (FY2026)` + `Consolidated`).
+
+---
+
+## 📷 Project Screenshots & Visual Gallery
+
+| Screenshot Description | Preview |
+| :--- | :--- |
+| **Model View & Data Schema** | ![Screenshot 1041](https://github.com/Abdullahprobro/PSX-2026-Corporate-Financial-Analytics-Dashboard/blob/main/Screenshot%20(1041).png?raw=true) |
+| **Power Query Transformations** | ![Screenshot 1042](https://github.com/Abdullahprobro/PSX-2026-Corporate-Financial-Analytics-Dashboard/blob/main/Screenshot%20(1042).png?raw=true) |
+| **Fact Table Relationships** | ![Screenshot 1043](https://github.com/Abdullahprobro/PSX-2026-Corporate-Financial-Analytics-Dashboard/blob/main/Screenshot%20(1043).png?raw=true) |
+| **DAX Measures & Calculations** | ![Screenshot 1044](https://github.com/Abdullahprobro/PSX-2026-Corporate-Financial-Analytics-Dashboard/blob/main/Screenshot%20(1044).png?raw=true) |
+| **Slicer Filtering Mechanics** | ![Screenshot 1045](https://github.com/Abdullahprobro/PSX-2026-Corporate-Financial-Analytics-Dashboard/blob/main/Screenshot%20(1045).png?raw=true) |
+| **Revenue Ranking Analysis** | ![Screenshot 1046](https://github.com/Abdullahprobro/PSX-2026-Corporate-Financial-Analytics-Dashboard/blob/main/Screenshot%20(1046).png?raw=true) |
+| **Financial Matrix Detail** | ![Screenshot 1047](https://github.com/Abdullahprobro/PSX-2026-Corporate-Financial-Analytics-Dashboard/blob/main/Screenshot%20(1047).png?raw=true) |
+| **Canva Background Canvas Setup** | ![Screenshot 1050](https://github.com/Abdullahprobro/PSX-2026-Corporate-Financial-Analytics-Dashboard/blob/main/Screenshot%20(1050).png?raw=true) |
+| **Container Alignment & Grid** | ![Screenshot 1051](https://github.com/Abdullahprobro/PSX-2026-Corporate-Financial-Analytics-Dashboard/blob/main/Screenshot%20(1051).png?raw=true) |
+| **KPI Card Formatting** | ![Screenshot 1052](https://github.com/Abdullahprobro/PSX-2026-Corporate-Financial-Analytics-Dashboard/blob/main/Screenshot%20(1052).png?raw=true) |
+| **Company Level Drilldown** | ![Screenshot 1053](https://github.com/Abdullahprobro/PSX-2026-Corporate-Financial-Analytics-Dashboard/blob/main/Screenshot%20(1053).png?raw=true) |
+| **Interactive Cross-Filtering** | ![Screenshot 1054](https://github.com/Abdullahprobro/PSX-2026-Corporate-Financial-Analytics-Dashboard/blob/main/Screenshot%20(1054).png?raw=true) |
+| **Final Dashboard Overview** | ![Screenshot 1055](https://github.com/Abdullahprobro/PSX-2026-Corporate-Financial-Analytics-Dashboard/blob/main/Screenshot%20(1055).png?raw=true) |
 
 ---
 
